@@ -1,7 +1,8 @@
 # sms-gps-position
 Android app. Send sms to get gps location<br>
 Nice way to locate an Android phone that is out of reach from 4G/5G. This app uses sms to get the geolocation from the phone.<br>
-You configure a password and send list in the app. Please make sure that you get all checkmarks green in the app. It will not work without these permissions.<p>
+You configure a password and a receiver list in the app (the sender phone number will always get a reply with the coordinates) . Please make sure that you get all checkmarks green in the app. It will not work without all these Android permissions.<p>
+
 SMS Syntax:<b>
 Position PASSWORD
 <p></p>
